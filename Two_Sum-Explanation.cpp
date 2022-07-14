@@ -1,4 +1,6 @@
-LeetCode - Two Sum Explanation : https://leetcode.com/problems/two-sum/
+LeetCode - Two Sum -- https://leetcode.com/problems/two-sum/
+Explanation
+
 
 #include <bits/stdc++.h>
 using namespace std;
